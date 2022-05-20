@@ -1,6 +1,6 @@
 # FQ-study
 
-This is the code and configuration for FQ-study, which aims to investigate the potential side effects of fluoroquinolone antibiotics.
+This is the code and configuration for FQ-study, which aims to investigate the potential side effects of fluoroquinolone antibiotics. The study is still on construction and the analysis is based on dummy data.
 
 You can run this project via [Gitpod](https://gitpod.io) in a web browser by clicking on this badge: [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/thimler/FQ-study)
 
